@@ -42,3 +42,4 @@ python init_db.py
 Run the API:
 
 uvicorn main:app"# Pizza-Delivery-Backend-withFastAPI-" 
+"# Pizza-Delivery-Backend-withFastAPI-" 
